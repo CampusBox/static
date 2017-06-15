@@ -44,58 +44,61 @@ p {
     line-height: 1.5;
     margin-bottom: 20px;
 }
-.fa.fa-social{
-        padding: 10px;
-        text-align: center;
-        text-decoration: none;
-        border-radius: 50%;
-    }
-    /* Add a hover effect if you want */
-    
-    .fa-facebook {
-        background: #3B5998;
-        color: white;
-    }
-    
-    .fa-twitter {
-        background: #55ACEE;
-        color: white;
-    }
-    
-    .fa-instagram {
-        background: #125688;
-        color: white;
-    }
-    
-    .fa-linkedin {
-        background: #007bb5;
-        color: white;
-    }
-    
-    .fa-pinterest {
-        background: #cb2027;
-        color: white;
-    }
-    
-    .fa-google {
-        background: #dd4b39;
-        color: white;
-    }
-    
-    .fa-reddit {
-        background: #ff5700;
-        color: white;
-    }
-    
-    .fa-android {
-        background: #a4c639;
-        color: white;
-    }
-    
-    .fa-youtube {
-        background: #bb0000;
-        color: white;
-    }
+
+.fa.fa-social {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+/* Add a hover effect if you want */
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-reddit {
+    background: #ff5700;
+    color: white;
+}
+
+.fa-android {
+    background: #a4c639;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
 
 .bg-primary {
     background-color: #1a8dc6 !important;
@@ -109,9 +112,11 @@ p {
 .text-faded {
     color: rgba(255, 255, 255, 0.7);
 }
-.topbar{
-  width: 100%;
+
+.topbar {
+    width: 100%;
 }
+
 section {
     padding: 100px 0;
 }
@@ -426,7 +431,7 @@ header.masthead .header-content .header-content-inner p {
 
 .call-to-action {
     padding: 50px 0;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0, 0, 0, 0.2);
     /*background-image: url("../img/cover_all_1000.jpg");*/
 }
 
