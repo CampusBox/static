@@ -311,7 +311,7 @@ header.masthead .header-content .header-content-inner p {
     header.masthead .header-content .header-content-inner h1 {
         font-size: 85px;
         letter-spacing: -0.02em;
-        text-shadow: 2px 5px 7px #00000080;
+        text-shadow: 2px 5px 7px rgba(0,0,0,0.8);
     }
     header.masthead .header-content .header-content-inner p {
         font-size: 22px;
