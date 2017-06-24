@@ -261,7 +261,6 @@ header.masthead {
     min-height: auto;
     text-align: center;
     color: white;
-    background-image: url("../img/cover_all_1000.jpg");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -269,7 +268,15 @@ header.masthead {
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .4);
 }
-
+header.masthead.home {
+    background-image: url("../img/cover_all_1000.jpg");
+}
+header.masthead.policy {
+    background-image: url("../img/policies.jpg");
+}
+header.masthead.terms {
+    background-image: url("../img/tnc.jpg");
+}
 header.masthead .header-content {
     position: relative;
     width: 100%;
