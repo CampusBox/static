@@ -1,10 +1,11 @@
+
 /*!
  * Start Bootstrap - Createive v4.0.0-alpha (http://startbootstrap.com/template-overviews/creative)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
 
-* {
+*{
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -179,14 +180,14 @@ body {
 
 #mainNav .navbar-brand:hover,
 #mainNav .navbar-brand:focus {
-    color: #f05f40;
+    color: #1e6823;
 }
 
 #mainNav .navbar-toggle {
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #222222;
+    color: #1e6823;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -194,17 +195,17 @@ body {
     font-size: 13px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #222222;
+    color: #1e6823;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #F05F40;
+    color: #1e6823;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-    color: #F05F40 !important;
+    color: #1e6823 !important;
     background-color: transparent;
 }
 
@@ -243,15 +244,15 @@ body {
     }
     #mainNav.navbar-shrink .navbar-brand:hover,
     #mainNav.navbar-shrink .navbar-brand:focus {
-        color: #f05f40;
+        color: #1e6823;
     }
     #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
     #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: #222222;
+        color: #1e6823;
     }
     #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
     #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-        color: #F05F40;
+        color: #1e6823;
     }
 }
 
@@ -366,15 +367,18 @@ header.masthead .header-content .header-content-inner p {
 }
 
 .stats {
-    font-size: 50px;
-    font-weight: 300;
+    font-size: 30px;
+    font-weight: 600;
     color: white;
+    text-shadow: 2px 5px 7px rgba(0, 0, 0, 0.8);
+   
 }
 
 .statsName {
     font-size: 35px;
-    font-weight: 400;
+    font-weight: 600;
     color: white;
+    text-shadow: 2px 2px 5px #000000;
 }
 
 .portfolio-box {
