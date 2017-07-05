@@ -1,0 +1,26 @@
+{
+    "name": "A better college life!",
+    "short_name": "CampusBox",
+    "description": "CampusBox makes life easier for students.",
+    "icons": [
+        {
+            "src": "/dist/assets/images/logoicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/logo-white.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+        
+    ],
+    "start_url": "/dist/#!/dashboard",
+    "gcm_sender_id": "437226745110",  
+    "gcm_user_visible_only": true  ,
+	"permissions": ["gcm","storage"],
+    "orientation": "portrait",
+    "display": "standalone",
+    "theme_color": "#149370",
+    "background_color": "#149370"
+}
