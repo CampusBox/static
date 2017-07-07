@@ -168,6 +168,8 @@ i.icon-networking {
 
 .platform {
     align-self: center;
+    box-sizing: 20px;
+    size: 100px;
 }
 
 /* carousel 
@@ -200,6 +202,6 @@ i.icon-networking {
   font-weight: 20%;
 }
 
-
-
-
+.faq{
+  margin-top: 2px;
+}

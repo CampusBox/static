@@ -181,7 +181,7 @@
             <div class="col-md-8 pull-left">
                 <h1 class="section-title titlelow">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-question fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">FAQs </span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Frequently Asked Questions </span>
                 </h1>
             </div>
         </div>

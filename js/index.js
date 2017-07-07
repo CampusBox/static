@@ -8,7 +8,7 @@
     $('#opportunity-carousel').carousel({
     interval: 1000
 
-
+    $('.ui-btn-text').css('font-size','50px');
 
 });
 
