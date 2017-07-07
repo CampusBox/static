@@ -34,7 +34,7 @@
             </div>
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                 <center>
-                    <img src="img/home/opportunity2.jpg">
+                    <img src="img/home/opportunity_icon.jpg">
                     <h3>Find Opportunities</h3>
                     <p class="text-muted">Find appropriate places to present your talent!</p>
                 </center>
