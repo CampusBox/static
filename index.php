@@ -26,7 +26,7 @@
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                 <center>
                     <div class="icon_features">
-                        <img src="img/home/creativity_icon.jpg">
+                        <img class="img-responsive feature-image" src="img/home/creativity_icon.jpg">
                         <h3>Share Creativity</h3>
                         <p class="text-muted">Upload your creativity to inspire budding talents.</p>
                     </div>
@@ -34,14 +34,14 @@
             </div>
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                 <center>
-                    <img src="img/home/opportunity_icon.jpg">
+                    <img class="img-responsive feature-image" src="img/home/opportunity_icon.jpg">
                     <h3>Find Opportunities</h3>
                     <p class="text-muted">Find appropriate places to present your talent!</p>
                 </center>
             </div>
             <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                 <center>
-                    <img src="img/home/networking_icon.jpg">
+                    <img class="img-responsive feature-image" src="img/home/networking_icon.jpg">
                     <h3>Connect To Aspiring Minds</h3>
                     <p class="text-muted">Networking is always good.</p>
                 </center>
