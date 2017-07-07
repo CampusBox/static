@@ -169,6 +169,16 @@ i.icon-networking {
 .platform {
     align-self: center;
 }
+
+/* carousel 
+
+*/
+.laptop{
+  background-image: url('../img/laptop.png');
+}
+.carousel{
+  max-width: 300px;
+}
 .carousel-control.left, .carousel-control.right {
   background: none !important;
   filter: progid: none !important;
@@ -180,7 +190,16 @@ i.icon-networking {
 .carousel:hover .carousel-control {
   visibility: visible;
 }
+
+
+
+
+
 .Footer h6{
   margin-bottom: 5px;
   font-weight: 20%;
 }
+
+
+
+

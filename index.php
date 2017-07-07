@@ -70,7 +70,7 @@
                     <h2>Browse Creative Categories</h2>
                 </div>
             </div>
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                 <div id="creativity-carousel" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#creativity-carousel" data-slide-to="0" class=""></li>
@@ -97,12 +97,12 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                <div id="opportunity-carousel" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#creativity-carousel" data-slide-to="0" class=""></li>
-                    <li data-target="#creativity-carousel" data-slide-to="1" class=""></li>
-                    <li data-target="#creativity-carousel" data-slide-to="2" class="active"></li>
+                    <li data-target="#opportunity-carousel" data-slide-to="0" class=""></li>
+                    <li data-target="#opportunity-carousel" data-slide-to="1" class=""></li>
+                    <li data-target="#opportunity-carousel" data-slide-to="2" class="active"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="item">
@@ -118,8 +118,8 @@
 
                     </div>
                 </div>
-                <a class="left carousel-control" href="#creativity-carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-                <a class="right carousel-control" href="#creativity-carousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                <a class="left carousel-control" href="#opportunity-carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+                <a class="right carousel-control" href="#opportunity-carousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
         </div>
 
@@ -131,12 +131,12 @@
         <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
             <h2>Find people by skills</h2>
         </div>
-        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 laptop">
            <div id="people-carousel" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
-                <li data-target="#creativity-carousel" data-slide-to="0" class=""></li>
-                <li data-target="#creativity-carousel" data-slide-to="1" class=""></li>
-                <li data-target="#creativity-carousel" data-slide-to="2" class="active"></li>
+                <li data-target="#people-carousel" data-slide-to="0" class=""></li>
+                <li data-target="#people-carousel" data-slide-to="1" class=""></li>
+                <li data-target="#people-carousel" data-slide-to="2" class="active"></li>
             </ol>
             <div class="carousel-inner">
                 <div class="item">
@@ -152,8 +152,8 @@
 
                 </div>
             </div>
-            <a class="left carousel-control" href="#creativity-carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-            <a class="right carousel-control" href="#creativity-carousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+            <a class="left carousel-control" href="#people-carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+            <a class="right carousel-control" href="#people-carousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
         </div>                </div>
     </div>
 </div>
