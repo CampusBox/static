@@ -1,4 +1,4 @@
-   /**
+/**
     * NAV BAR 
     */
    
@@ -125,10 +125,62 @@
        padding-top: 80px;
        padding-bottom: 80px;
    }
-   
-   i.fa-4x {
-       padding-bottom: 30px;
-       padding-bottom: 30px;
-   }
-   
- 
+}
+.icon-features {
+    background-image: url("../img/creativity_icon.jpg");
+    height: 400px;
+    width: 400px;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+i.icon-opportunity {
+    background-image: url("../img/opportunity_icon.jpg");
+    height: 400px;
+    width: 400px;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+i.icon-networking {
+    background-image: url("../img/networking_icon.jpg");
+    height: 400px;
+    width: 400px;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.browse {
+    height: 100px;
+    width: 100px;
+}
+.Opportunity {
+    height: 400px;
+    width: 400px;
+}
+.head1 {
+    font-size: 5000px;
+    font-weight: 75px;
+}
+.carousel{
+  box-shadow: 0px 0px 5px 0px #ccc;
+}
+
+.platform {
+    align-self: center;
+}
+.carousel-control.left, .carousel-control.right {
+  background: none !important;
+  filter: progid: none !important;
+  outline: 0;
+ }
+.carousel .carousel-control {
+  visibility: hidden;
+}
+.carousel:hover .carousel-control {
+  visibility: visible;
+}
+.Footer h6{
+  margin-bottom: 5px;
+  font-weight: 20%;
+}

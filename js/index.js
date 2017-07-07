@@ -2,7 +2,15 @@
     "use strict"; // Start of use strict
 
     // Smooth scrolling using jQuery easing
-  
+    $('#creativity-carousel').carousel({
+    interval: 1000
+
+    $('#opportunity-carousel').carousel({
+    interval: 1000
+
+
+
+});
 
     // Activate scrollspy to add active class to navbar items on scroll
     $('body').scrollspy({
