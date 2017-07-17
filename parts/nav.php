@@ -10,6 +10,15 @@
                 </button>
                 <a class="navbar-brand" href="https://campusbox.org/dist/dashboard/signup">CampusBox</a>
             </div>
+
+            <form class="navbar-form navbar-left" role="search">
+    <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search">
+    </div>
+    <button type="submit" class="btn btn-default">
+        <span class="glyphicon glyphicon-search"></span>
+    </button>
+</form>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -25,6 +34,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="https://campusbox.org/dist/dashboard/signup">SIGN UP</a>
                     </li>
+
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
                         <ul class="dropdown-menu">
